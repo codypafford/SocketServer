@@ -1,0 +1,7 @@
+1. Run the server
+2. Run the client
+3. Enter the hostname/IP address when prompted; e.g. 'localhost'
+4. Enter the port number '6868'
+5. Enter a number 1-6 to request a command to run on the server side
+6. Enter the number of clients
+7. Output: The  output of the command requested by the client. The average turn around time.
